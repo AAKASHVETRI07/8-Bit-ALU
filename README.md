@@ -86,7 +86,7 @@ The NE555P generates the clock signal, with the timing components selected for a
 
 ### 8-Bit ALU — Hardware Overview
 
-<img width="300"  alt="alu-hardware-overview jpeg" src="https://github.com/user-attachments/assets/6f86492b-68ac-445b-8043-6aa876fb064e" />
+<img width="500"  alt="alu-hardware-overview jpeg" src="https://github.com/user-attachments/assets/6f86492b-68ac-445b-8043-6aa876fb064e" />
 
 ### Additional Circuit View
 
