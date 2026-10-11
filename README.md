@@ -81,6 +81,17 @@ The NE555P generates the clock signal, with the timing components selected for a
 | Sequential addition | Accumulate results across multiple operands |
 | Sequential subtraction | Use intermediate results for further subtraction |
 
+
+## 📸 Hardware Implementation
+
+### 8-Bit ALU — Hardware Overview
+
+![8-Bit ALU Hardware Overview](alu-hardware-overview.jpeg)
+
+### Additional Circuit View
+
+![8-Bit ALU Circuit Details](alu-hardware1-overview.jpeg)
+
 ## Testing
 
 Test the circuit using different binary inputs, including zero, maximum values, addition with carry, subtraction resulting in zero, and repeated operations using stored results.
