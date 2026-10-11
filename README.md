@@ -90,7 +90,7 @@ The NE555P generates the clock signal, with the timing components selected for a
 
 ### Additional Circuit View
 
-<img width="300"  alt="alu-hardware1-overview jpeg" src="https://github.com/user-attachments/assets/7eb2c308-667c-49bd-8356-010f6bd61c43" />
+<img width="500"  alt="alu-hardware1-overview jpeg" src="https://github.com/user-attachments/assets/7eb2c308-667c-49bd-8356-010f6bd61c43" />
 
 ## Testing
 
