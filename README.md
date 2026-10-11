@@ -86,11 +86,11 @@ The NE555P generates the clock signal, with the timing components selected for a
 
 ### 8-Bit ALU — Hardware Overview
 
-![8-Bit ALU Hardware Overview](alu-hardware-overview.jpeg)
+![8-Bit ALU Hardware Overview](./alu-hardware-overview.jpeg)
 
 ### Additional Circuit View
 
-![8-Bit ALU Circuit Details](alu-hardware1-overview.jpeg)
+![8-Bit ALU Circuit Details](./alu-hardware1-overview.jpeg)
 
 ## Testing
 
@@ -115,7 +115,5 @@ Test the circuit using different binary inputs, including zero, maximum values, 
 
 - **Event:** ALUForge '26 – 8-Bit ALU Hardware Hackathon
 - **Project:** 8-Bit ALU
-- **Primary Operations:** Addition and Subtraction
-- **Implementation:** Digital Logic Hardware
 
 *Every Operation Builds a Brighter Tomorrow!*
